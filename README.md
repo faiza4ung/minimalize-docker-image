@@ -1,0 +1,1 @@
+# minimalize-docker-image
